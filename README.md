@@ -56,11 +56,11 @@ A glimpse of the application
 
 #### Signup by guest or host.
 
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/signup.png)
+![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Signup.png)
 
 #### Login by guest or host.
 
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/login.png)
+![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Login%20in%20image.png)
 
 
 ## Performance Graphs.
