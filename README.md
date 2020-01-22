@@ -37,13 +37,13 @@ Two folders are there:
 
 #### Frontend: 
 
-Goto-> frontend->Quora and run run npm install ( it will install all dependency for this application) 
+Goto-> frontend -> Quora and run run npm install ( it will install all dependency for this application) 
 
 then npm start in cmd. 
 
 #### Backend: 
 
-import backend folder in eclipse or IntelliJ IDE. 
+Backend: Goto ->backend -> and run run npm install ( it will install all dependency for this application) then npm start. your server will start at port 3001
 
 Import all the dependeccies required to run spring boot applciation and run the application.
 
