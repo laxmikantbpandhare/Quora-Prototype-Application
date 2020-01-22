@@ -84,7 +84,7 @@ A glimpse of the application
 
 #### Share link with the Post.
 
-![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/post%20your%20question.png)
+![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Share%20link%20with%20question%20Post.png)
 
 #### Search.
 
