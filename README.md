@@ -1,12 +1,18 @@
 # Quora Prototype Application 
 
-OpenHome provides a platform for hosts to accommodate guests with short-term lodging and tourism-related activities. Customers can search for lodging using filters such as lodging type, dates, location, and price. Customers can search for specific types of homes, such as Condo and house, apartment, and Pent House. Before booking, users must provide personal and payment information.
+## Abstract 
 
-Quora is an question-and-answer website where questions are asked, answered, and edited by Internet users, either factually or in the form of opinions.
+Quora is an question-and-answer website where questions are asked, answered, and edited by Internet users, either factually or in the form of opinions. The developed project helps the entire fraternity to gain and share knowledge. This platform gives opportunity to ask the questions and get the lacking knowledge. It provides the user an opportunity to search the questions and required knowledge from the answers.
 
-Further, the customer can do the reservation of that property, Once the user book the property, he can see all the details on the dashboard. On the dashboard, the user can check-in, check-out and even cancel the reservation. If user check-in late or cancel’s the reservation then appropriate changes get applied and the rest of the amount gets refunded. The user cannot check-in early. The same functionality provided to host where the host can cancel the reservation or change the availability of the property. But, the host needs to pay the charges then only he is able to cancel the reservation which is within a week. For all these actions, the appropriate party gets notified through the mail. The user also can see his monthly billing history for last 12 months.
+The user mostly see the answer which has most up votes. Also, user can able to see his/her own answers and question. It requires client to register first and then proceed with his requirements. Also, verification of the user name is not required. This application is the similar prototype application of Quora. The development of this project is completely based of the user needs. Through this user can able to see his own and old answers by year and sorted ascending or descending order. It also provides the functionality of extensive search through name, question or topic.
 
-The time advancement management is the part the application’s time can be moved in the future and all of the operations like check-out performed automatically. It also has Cron jobs added, once the customer is done with his reservation, the Cron job automatically does check-out process. It acts as a batch job for our application. As part of bonus features, the user can able to view the searched place on google map, also, the user can able to rate the property.
+## Introduction
+
+One of the biggest reasons for developing this application is the user get the solution within short time and with proper explanation. Quora prototype application provides facility that user can ask the question and look the question from the Quora database. The search functionality of the application is developed in such a way that, user can search people, question and even topic within single search.
+
+Further, the use can answer any question if he/she is ware of the answer. The user also can comment on the answer given by other users. He can explain his views on respective answers. The Quora Prototype application provides this facility to help the user/client with minimal work.
+
+The development of the project consists of multiple phases wherein, we started with the initial login and signup part with inclusion of Redux for store management, passport for authentication and KAFKA as a message passing queue.
 
 
 ## Members 
