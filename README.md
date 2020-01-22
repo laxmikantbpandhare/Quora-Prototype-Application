@@ -4,7 +4,9 @@
 
 Quora is an question-and-answer website where questions are asked, answered, and edited by Internet users, either factually or in the form of opinions. The developed project helps the entire fraternity to gain and share knowledge. This platform gives opportunity to ask the questions and get the lacking knowledge. It provides the user an opportunity to search the questions and required knowledge from the answers.
 
-The user mostly see the answer which has most up votes. Also, user can able to see his/her own answers and question. It requires client to register first and then proceed with his requirements. Also, verification of the user name is not required. This application is the similar prototype application of Quora. The development of this project is completely based of the user needs. Through this user can able to see his own and old answers by year and sorted ascending or descending order. It also provides the functionality of extensive search through name, question or topic.
+The user mostly see the answer which has most up votes. Also, user can able to see his/her own answers and question. It requires client to register first and then proceed with his requirements. Also, verification of the user name is not required. This application is the similar prototype application of Quora. 
+
+The development of this project is completely based of the user needs. Through this user can able to see his own and old answers by year and sorted ascending or descending order. It also provides the functionality of extensive search through name, question or topic.
 
 ## Introduction
 
@@ -45,21 +47,6 @@ import backend folder in eclipse or IntelliJ IDE.
 
 Import all the dependeccies required to run spring boot applciation and run the application.
 
-## Bonus Features
-
-As part of the bonus features, we have implemented reviews and rating features. In this, guests can give reviews from 1 to 5 stars for the property. At first, the property gets displayed with the average rating it got till date. The below screen prints has rating given by both guest and host. 
-
-#### Guest and Host can give rating.
-
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/Bonus%20Features.png)
-
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/host%20side%20rating.png)
-
-#### Implemented Google Map feature.
-
-Further, we have integrated google map functionality in our application. Once the user enters the location, then its location gets displayed on the google location. Google Map shows for the location entered below. Once you click on view larger map, you can see below.
-
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/Map.png)
 
 ## Application
 A glimpse of the application
