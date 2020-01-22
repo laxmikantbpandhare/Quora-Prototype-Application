@@ -14,7 +14,7 @@ The time advancement management is the part the application’s time can be move
    | Name                           |              Email ID                 | 
    |--------------------------------|---------------------------------------|
    | **Laxmikant Bhaskar Pandhare** |   laxmikantbhaskar.pandhare@sjsu.edu  |
-   | **Tosha Kamath   **            |      toshasudhir.kamath@sjsu.edu      |
+   | **Tosha Kamath** .             |      toshasudhir.kamath@sjsu.edu      |
    | **Meghna Tiwari**              |      meghna.tiwari@sjsu.edu           | 
    | **Rohankumar Shah**            |      rohakumar.shah@sjsu.edu          |
    | **Vaibhav Gupta**              |       vaibhav.gupta@sjsu.edu          |
