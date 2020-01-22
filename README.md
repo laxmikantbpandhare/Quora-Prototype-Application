@@ -54,18 +54,18 @@ Import all the dependeccies required to run spring boot applciation and run the 
 ## Application
 A glimpse of the application
 
-#### Signup by guest or host.
+#### Signup by user.
 
 ![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Signup.png)
 
-#### Login by guest or host.
+#### Login by user.
 
 ![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Login%20in%20image.png)
 
 
 ## Performance Graphs.
 
-#### Performance Graph generated on different number of users
+#### Performance Graph generated depending upon different number of users
 
 ![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Performance%20Grapn%20on%20number%20of%20users.png)
 
