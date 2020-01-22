@@ -29,7 +29,7 @@ The development of the project consists of multiple phases wherein, we started w
    
 
 ## High Level Design Diagram
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/High%20Level%20Design%20Diagram.png)
+![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/High%20Level%20Design.png)
 
 ## Build Instructions
 
