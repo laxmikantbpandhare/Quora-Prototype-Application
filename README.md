@@ -62,30 +62,21 @@ A glimpse of the application
 
 ![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/login.png)
 
-#### Propety created by host.
 
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/Home%20creation.png)
+## Performance Graphs.
 
-#### host Dashboard.
+#### Performance Graph generated on different number of users
 
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/created%20home.png)
+![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Performance%20Grapn%20on%20number%20of%20users.png)
 
-#### Propety booked by guest after search.
+#### Performance Graph generated on different scenarios (Scenarios mentioned below)
 
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/home%20booking.png)
+   |                    Scenarios                       | 
+   |--------------------------------------------------- |
+   |                    **Base**                        |
+   |           **Base + Connection Pooling**            |
+   |        **Base + Connection Pooling + SQL Caching** |
+   | **Base + Connection Pooling + SQL Caching + KAFKA**|
 
-#### Booking cancelled by guest.
 
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/cancel%20by%20guest.png)
-
-#### Booking cancelled by Host.
-
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/Cancel%20by%20host.png)
-
-#### Billing history.
-
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/billing%20history.png)
-
-#### For Every action host and guest get notified through email.
-
-![alt text](https://github.com/kumarrishabh0289/airbnb/blob/laxmikant_new/images/email%20notification.png)
+![alt text](https://github.com/laxmikantbpandhare/Quora-Prototype-Application/blob/master/images/Performance%20Grpahs%20in%20different%20scenrios.png)
