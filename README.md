@@ -24,7 +24,7 @@ The development of the project consists of multiple phases wherein, we started w
    | **Laxmikant Bhaskar Pandhare** |   laxmikantbhaskar.pandhare@sjsu.edu  |
    | **Tosha Kamath**               |      toshasudhir.kamath@sjsu.edu      |
    | **Meghna Tiwari**              |      meghna.tiwari@sjsu.edu           | 
-   | **Rohankumar Shah**            |      rohakumar.shah@sjsu.edu          |
+   | **Rohankumar Shah**            |      rohankumar.shah@sjsu.edu          |
    | **Vaibhav Gupta**              |       vaibhav.gupta@sjsu.edu          |
    
 
