@@ -17,7 +17,7 @@ Further, the use can answer any question if he/she is ware of the answer. The us
 The development of the project consists of multiple phases wherein, we started with the initial login and signup part with inclusion of Redux for store management, passport for authentication and KAFKA as a message passing queue.
 
 
-## Members 
+## Team Members 
 
    | Name                           |              Email ID                 | 
    |--------------------------------|---------------------------------------|
