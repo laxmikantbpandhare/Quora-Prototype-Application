@@ -1,5 +1,6 @@
 # Quora Prototype Application 
 
+
 ## Abstract 
 
 Quora is an question-and-answer website where questions are asked, answered, and edited by Internet users, either factually or in the form of opinions. The developed project helps the entire fraternity to gain and share knowledge. This platform gives opportunity to ask the questions and get the lacking knowledge. It provides the user an opportunity to search the questions and required knowledge from the answers.
